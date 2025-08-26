@@ -26,7 +26,7 @@ A simple Python-based project that evaluates password strength using regular exp
 git clone https://github.com/yourusername/password-strength-checker.git  
 
 ## Run the script
-python password_checker.py
+python3 app.py
 
 
 ## 🔮 Future Improvements
